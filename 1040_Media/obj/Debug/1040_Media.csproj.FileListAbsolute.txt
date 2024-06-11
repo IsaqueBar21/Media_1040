@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\bin\Debug\1040_Media.exe.config
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\bin\Debug\1040_Media.exe
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\bin\Debug\1040_Media.pdb
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\obj\Debug\1040_Media.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\obj\Debug\1040_Media.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\obj\Debug\1040_Media.exe
+C:\CURSOS\C#\projetos\1040_Media\1040_Media\obj\Debug\1040_Media.pdb
